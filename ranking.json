@@ -1,0 +1,84 @@
+{
+    "points": [
+        {
+            "posicion": 1,
+            "jogador": "Bradley Beal",
+            "time": "WAS",
+            "age": 27,
+            "min": 35.3,
+            "pontos": 31.0
+        },
+        {
+            "posicion": 2,
+            "jogador": "Stephen Curry",
+            "time": "GSW",
+            "age": 33,
+            "min": 34.0,
+            "pontos": 30.4
+        },
+        {
+            "posicion": 3,
+            "jogador": "Joel Embiid",
+            "time": "PHI",
+            "age": 27,
+            "min": 32.1,
+            "pontos": 29.6
+        },
+        {
+            "posicion": 4,
+            "jogador": "Giannis Antetokounmpo",
+            "time": "MIL",
+            "age": 26,
+            "min": 34.0,
+            "pontos": 28.8
+        },
+        {
+            "posicion": 5,
+            "jogador": "Damian Lillard",
+            "time": "POR",
+            "age": 30,
+            "min": 35.9,
+            "pontos": 28.7
+        },
+        {
+            "posicion": 6,
+            "jogador": "Luka Doncic",
+            "time": "DAL",
+            "age": 22,
+            "min": 35.0,
+            "pontos": 28.6
+        },
+        {
+            "posicion": 7,
+            "jogador": "Kevin Durant",
+            "time": "BKN",
+            "age": 32,
+            "min": 34.1,
+            "pontos": 28.2
+        },
+        {
+            "posicion": 8,
+            "jogador": "Kyrie Irving",
+            "time": "BKN",
+            "age": 29,
+            "min": 35.2,
+            "pontos": 27.6
+        },
+        {
+            "posicion": 9,
+            "jogador": "Zach LaVine",
+            "time": "CHI",
+            "age": 26,
+            "min": 35.2,
+            "pontos": 27.5
+        },
+        {
+            "posicion": 10,
+            "jogador": "Zion Williamson",
+            "time": "NOP",
+            "age": 20,
+            "min": 32.9,
+            "pontos": 26.8
+        }
+    ]
+}
